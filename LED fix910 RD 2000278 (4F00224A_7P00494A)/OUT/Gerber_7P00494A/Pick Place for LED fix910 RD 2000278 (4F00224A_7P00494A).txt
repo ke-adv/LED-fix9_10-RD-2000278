@@ -1,0 +1,466 @@
+Altium Designer Pick and Place Locations
+D:\Astapenko\PWM\Led Digit\LED fix9_10 RD 2000278\LED fix910 RD 2000278 (4F00224A_7P00494A)\Project Outputs for LED fix910 RD 2000278 (4F00224A_7P00494A)\Pick Place for LED fix910 RD 2000278 (4F00224A_7P00494A).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19.05.22
+Time:       15:37
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Footprint Center-X(mm) Center-Y(mm) Ref-X(mm) Ref-Y(mm) Layer    Rotation Comment                                                      
+VS204      SOT23     239.9999     370.5000     240.0000  370.5000  TopLayer 90       BZX84                                                        
+VS203      SOT23     259.9999     370.5000     260.0000  370.5000  TopLayer 90       BZX84                                                        
+VS202      SOT23     259.9999     390.5001     260.0000  390.5001  TopLayer 90       BZX84                                                        
+VS201      SOT23     239.9999     390.5001     240.0000  390.5001  TopLayer 90       BZX84                                                        
+VS200      SOT23     239.9999     410.4999     240.0000  410.4999  TopLayer 90       BZX84                                                        
+VS199      SOT23     279.9999     390.5001     280.0000  390.5001  TopLayer 90       BZX84                                                        
+VS198      SOT23     299.9999     390.5000     300.0000  390.5000  TopLayer 90       BZX84                                                        
+VS197      SOT23     299.9999     410.4999     300.0000  410.4999  TopLayer 90       BZX84                                                        
+VS196      SOT23     279.9999     410.4999     280.0000  410.4999  TopLayer 90       BZX84                                                        
+VS195      SOT23     259.9999     410.5000     260.0000  410.5000  TopLayer 90       BZX84                                                        
+VS194      SOT23     279.9999     370.5000     280.0000  370.5000  TopLayer 90       BZX84                                                        
+VS193      SOT23     299.9999     370.5000     300.0000  370.5000  TopLayer 90       BZX84                                                        
+VS192      SOT23     319.9999     370.5000     320.0000  370.5000  TopLayer 90       BZX84                                                        
+VS191      SOT23     319.9999     390.5000     320.0000  390.5000  TopLayer 90       BZX84                                                        
+VS190      SOT23     319.9999     410.4999     320.0000  410.4999  TopLayer 90       BZX84                                                        
+VS189      SOT23     339.9999     370.5000     340.0000  370.5000  TopLayer 90       BZX84                                                        
+VS188      SOT23     359.9999     370.5000     360.0000  370.5000  TopLayer 90       BZX84                                                        
+VS187      SOT23     359.9999     390.5000     360.0000  390.5000  TopLayer 90       BZX84                                                        
+VS186      SOT23     339.9999     390.5000     340.0000  390.5000  TopLayer 90       BZX84                                                        
+VS185      SOT23     339.9999     410.5000     340.0000  410.5000  TopLayer 90       BZX84                                                        
+VS184      SOT23     359.9999     350.5000     360.0000  350.5000  TopLayer 90       BZX84                                                        
+VS183      SOT23     359.9999     330.5000     360.0000  330.5000  TopLayer 90       BZX84                                                        
+VS182      SOT23     379.9999     330.5000     380.0000  330.5000  TopLayer 90       BZX84                                                        
+VS181      SOT23     379.9999     350.5000     380.0000  350.5000  TopLayer 90       BZX84                                                        
+VS180      SOT23     379.9999     370.5000     380.0000  370.5000  TopLayer 90       BZX84                                                        
+VS179      SOT23     339.9999     350.5000     340.0000  350.5000  TopLayer 90       BZX84                                                        
+VS178      SOT23     339.9999     330.5000     340.0000  330.5000  TopLayer 90       BZX84                                                        
+VS177      SOT23     339.9999     310.5000     340.0000  310.5000  TopLayer 90       BZX84                                                        
+VS176      SOT23     359.9999     310.5000     360.0000  310.5000  TopLayer 90       BZX84                                                        
+VS175      SOT23     379.9999     310.5000     380.0000  310.5000  TopLayer 90       BZX84                                                        
+VS174      SOT23     339.9999     270.5000     340.0000  270.5000  TopLayer 90       BZX84                                                        
+VS173      SOT23     359.9999     270.5000     360.0000  270.5000  TopLayer 90       BZX84                                                        
+VS172      SOT23     339.9999     290.5000     340.0000  290.5000  TopLayer 90       BZX84                                                        
+VS171      SOT23     359.9999     290.5000     360.0000  290.5000  TopLayer 90       BZX84                                                        
+VS170      SOT23     379.9999     290.5000     380.0000  290.5000  TopLayer 90       BZX84                                                        
+VS169      SOT23     359.9999     250.5000     360.0000  250.5000  TopLayer 90       BZX84                                                        
+VS168      SOT23     359.9999     230.5000     360.0000  230.5000  TopLayer 90       BZX84                                                        
+VS167      SOT23     379.9999     230.5000     380.0000  230.5000  TopLayer 90       BZX84                                                        
+VS166      SOT23     379.9999     250.5000     380.0000  250.5000  TopLayer 90       BZX84                                                        
+VS165      SOT23     379.9999     270.5000     380.0000  270.5000  TopLayer 90       BZX84                                                        
+VS164      SOT23     339.9999     250.5000     340.0000  250.5000  TopLayer 90       BZX84                                                        
+VS163      SOT23     339.9999     230.5000     340.0000  230.5000  TopLayer 90       BZX84                                                        
+VS162      SOT23     339.9999     210.5000     340.0000  210.5000  TopLayer 90       BZX84                                                        
+VS161      SOT23     359.9999     210.5000     360.0000  210.5000  TopLayer 90       BZX84                                                        
+VS160      SOT23     379.9999     210.5000     380.0000  210.5000  TopLayer 90       BZX84                                                        
+VS159      SOT23     339.9999     190.5000     340.0000  190.5000  TopLayer 90       BZX84                                                        
+VS158      SOT23     339.9999     170.5000     340.0000  170.5000  TopLayer 90       BZX84                                                        
+VS157      SOT23     359.9999     170.5000     360.0000  170.5000  TopLayer 90       BZX84                                                        
+VS156      SOT23     359.9999     190.5000     360.0000  190.5000  TopLayer 90       BZX84                                                        
+VS155      SOT23     379.9999     190.5000     380.0000  190.5000  TopLayer 90       BZX84                                                        
+VS154      SOT23     359.9999     150.5000     360.0000  150.5000  TopLayer 90       BZX84                                                        
+VS153      SOT23     359.9999     130.5000     360.0000  130.5000  TopLayer 90       BZX84                                                        
+VS152      SOT23     379.9999     130.5000     380.0000  130.5000  TopLayer 90       BZX84                                                        
+VS151      SOT23     379.9999     150.5000     380.0000  150.5000  TopLayer 90       BZX84                                                        
+VS150      SOT23     379.9999     170.5000     380.0000  170.5000  TopLayer 90       BZX84                                                        
+VS149      SOT23     339.9999     150.5000     340.0000  150.5000  TopLayer 90       BZX84                                                        
+VS148      SOT23     339.9999     130.5000     340.0000  130.5000  TopLayer 90       BZX84                                                        
+VS147      SOT23     339.9999     110.5000     340.0000  110.5000  TopLayer 90       BZX84                                                        
+VS146      SOT23     359.9999     110.5000     360.0000  110.5000  TopLayer 90       BZX84                                                        
+VS145      SOT23     379.9999     110.5000     380.0000  110.5000  TopLayer 90       BZX84                                                        
+VS144      SOT23     339.9999     90.5000      340.0000  90.5000   TopLayer 90       BZX84                                                        
+VS143      SOT23     359.9999     90.5000      360.0000  90.5000   TopLayer 90       BZX84                                                        
+VS142      SOT23     379.9999     90.5000      380.0000  90.5000   TopLayer 90       BZX84                                                        
+VS141      SOT23     359.9999     70.5000      360.0000  70.5000   TopLayer 90       BZX84                                                        
+VS140      SOT23     379.9999     70.5000      380.0000  70.5000   TopLayer 90       BZX84                                                        
+VS139      SOT23     339.9999     70.5000      340.0000  70.5000   TopLayer 90       BZX84                                                        
+VS138      SOT23     319.9999     70.5000      320.0000  70.5000   TopLayer 90       BZX84                                                        
+VS137      SOT23     319.9999     50.5000      320.0000  50.5000   TopLayer 90       BZX84                                                        
+VS136      SOT23     339.9999     50.5000      340.0000  50.5000   TopLayer 90       BZX84                                                        
+VS135      SOT23     359.9999     50.5000      360.0000  50.5000   TopLayer 90       BZX84                                                        
+VS134      SOT23     299.9999     70.5000      300.0000  70.5000   TopLayer 90       BZX84                                                        
+VS133      SOT23     299.9999     50.5000      300.0000  50.5000   TopLayer 90       BZX84                                                        
+VS132      SOT23     299.9999     30.5000      300.0000  30.5000   TopLayer 90       BZX84                                                        
+VS131      SOT23     319.9999     30.5000      320.0000  30.5000   TopLayer 90       BZX84                                                        
+VS130      SOT23     339.9999     30.5000      340.0000  30.5000   TopLayer 90       BZX84                                                        
+VS129      SOT23     279.9999     70.5000      280.0000  70.5000   TopLayer 90       BZX84                                                        
+VS128      SOT23     259.9999     70.5000      260.0000  70.5000   TopLayer 90       BZX84                                                        
+VS127      SOT23     259.9999     50.5000      260.0000  50.5000   TopLayer 90       BZX84                                                        
+VS126      SOT23     279.9999     50.5000      280.0000  50.5000   TopLayer 90       BZX84                                                        
+VS125      SOT23     279.9999     30.5000      280.0000  30.5000   TopLayer 90       BZX84                                                        
+VS124      SOT23     239.9999     50.5000      240.0000  50.5000   TopLayer 90       BZX84                                                        
+VS123      SOT23     219.9999     50.5000      220.0000  50.5000   TopLayer 90       BZX84                                                        
+VS122      SOT23     219.9999     30.5000      220.0000  30.5000   TopLayer 90       BZX84                                                        
+VS121      SOT23     239.9999     30.5000      240.0000  30.5000   TopLayer 90       BZX84                                                        
+VS120      SOT23     259.9999     30.5000      260.0000  30.5000   TopLayer 90       BZX84                                                        
+VS119      SOT23     239.9999     70.5000      240.0000  70.5000   TopLayer 90       BZX84                                                        
+VS118      SOT23     219.9999     70.5000      220.0000  70.5000   TopLayer 90       BZX84                                                        
+VS117      SOT23     199.9999     50.5000      200.0000  50.5000   TopLayer 90       BZX84                                                        
+VS116      SOT23     199.9999     70.5000      200.0000  70.5000   TopLayer 90       BZX84                                                        
+VS115      SOT23     179.9999     70.5000      180.0000  70.5000   TopLayer 90       BZX84                                                        
+VS114      SOT23     219.9999     90.5000      220.0000  90.5000   TopLayer 90       BZX84                                                        
+VS113      SOT23     219.9999     110.5000     220.0000  110.5000  TopLayer 90       BZX84                                                        
+VS112      SOT23     199.9999     110.5000     200.0000  110.5000  TopLayer 90       BZX84                                                        
+VS111      SOT23     199.9999     90.5000      200.0000  90.5000   TopLayer 90       BZX84                                                        
+VS110      SOT23     179.9999     90.5000      180.0000  90.5000   TopLayer 90       BZX84                                                        
+VS109      SOT23     199.9999     130.5000     200.0000  130.5000  TopLayer 90       BZX84                                                        
+VS108      SOT23     199.9999     150.5000     200.0000  150.5000  TopLayer 90       BZX84                                                        
+VS107      SOT23     179.9999     150.5000     180.0000  150.5000  TopLayer 90       BZX84                                                        
+VS106      SOT23     179.9999     130.5000     180.0000  130.5000  TopLayer 90       BZX84                                                        
+VS105      SOT23     179.9999     110.5000     180.0000  110.5000  TopLayer 90       BZX84                                                        
+VS104      SOT23     219.9999     130.5000     220.0000  130.5000  TopLayer 90       BZX84                                                        
+VS103      SOT23     219.9999     150.5000     220.0000  150.5000  TopLayer 90       BZX84                                                        
+VS102      SOT23     219.9999     169.4000     220.0000  169.4000  TopLayer 90       BZX84                                                        
+VS101      SOT23     199.9999     169.4000     200.0000  169.4000  TopLayer 90       BZX84                                                        
+VS100      SOT23     179.9999     169.4000     180.0000  169.4000  TopLayer 90       BZX84                                                        
+VS99       SOT23     200.1004     390.5000     200.1005  390.5000  TopLayer 90       BZX84                                                        
+VS98       SOT23     219.9999     390.5000     220.0000  390.5000  TopLayer 90       BZX84                                                        
+VS97       SOT23     219.9999     410.5000     220.0000  410.5000  TopLayer 90       BZX84                                                        
+VS96       SOT23     179.9999     370.5000     180.0000  370.5000  TopLayer 90       BZX84                                                        
+VS95       SOT23     200.1004     370.5000     200.1005  370.5000  TopLayer 90       BZX84                                                        
+VS94       SOT23     219.9999     370.5000     220.0000  370.5000  TopLayer 90       BZX84                                                        
+VS93       SOT23     219.9999     350.5000     220.0000  350.5000  TopLayer 90       BZX84                                                        
+VS92       SOT23     219.9999     330.5000     220.0000  330.5000  TopLayer 90       BZX84                                                        
+VS91       SOT23     179.9999     310.5000     180.0000  310.5000  TopLayer 90       BZX84                                                        
+VS90       SOT23     179.9999     330.5000     180.0000  330.5000  TopLayer 90       BZX84                                                        
+VS89       SOT23     179.9999     350.5000     180.0000  350.5000  TopLayer 90       BZX84                                                        
+VS88       SOT23     200.1004     350.5000     200.1005  350.5000  TopLayer 90       BZX84                                                        
+VS87       SOT23     200.1004     330.5000     200.1005  330.5000  TopLayer 90       BZX84                                                        
+VS86       SOT23     179.9999     290.5000     180.0000  290.5000  TopLayer 90       BZX84                                                        
+VS85       SOT23     199.9999     290.5000     200.0000  290.5000  TopLayer 90       BZX84                                                        
+VS84       SOT23     200.1004     310.5000     200.1005  310.5000  TopLayer 90       BZX84                                                        
+VS83       SOT23     219.9999     310.5000     220.0000  310.5000  TopLayer 90       BZX84                                                        
+VS82       SOT23     219.9999     290.5000     220.0000  290.5000  TopLayer 90       BZX84                                                        
+VS81       SOT23     179.9999     270.5000     180.0000  270.5000  TopLayer 90       BZX84                                                        
+VS80       SOT23     199.9999     270.5000     200.0000  270.5000  TopLayer 90       BZX84                                                        
+VS79       SOT23     219.9999     270.5000     220.0000  270.5000  TopLayer 90       BZX84                                                        
+VS78       SOT23     219.9999     250.5000     220.0000  250.5000  TopLayer 90       BZX84                                                        
+VS77       SOT23     219.9999     230.5000     220.0000  230.5000  TopLayer 90       BZX84                                                        
+VS76       SOT23     179.9999     210.5000     180.0000  210.5000  TopLayer 90       BZX84                                                        
+VS75       SOT23     179.9999     230.5000     180.0000  230.5000  TopLayer 90       BZX84                                                        
+VS74       SOT23     179.9999     250.5000     180.0000  250.5000  TopLayer 90       BZX84                                                        
+VS73       SOT23     199.9999     250.5000     200.0000  250.5000  TopLayer 90       BZX84                                                        
+VS72       SOT23     199.9999     230.5000     200.0000  230.5000  TopLayer 90       BZX84                                                        
+VS71       SOT23     179.9999     190.5000     180.0000  190.5000  TopLayer 90       BZX84                                                        
+VS70       SOT23     199.9999     190.5000     200.0000  190.5000  TopLayer 90       BZX84                                                        
+VS69       SOT23     199.9999     210.5000     200.0000  210.5000  TopLayer 90       BZX84                                                        
+VS68       SOT23     219.9999     210.5000     220.0000  210.5000  TopLayer 90       BZX84                                                        
+VS67       SOT23     219.9999     190.5000     220.0000  190.5000  TopLayer 90       BZX84                                                        
+VS66       SOT23     39.9999      410.5000     40.0000   410.5000  TopLayer 90       BZX84                                                        
+VS65       SOT23     19.9999      410.5000     20.0000   410.5000  TopLayer 90       BZX84                                                        
+VS64       SOT23     19.9999      390.5000     20.0000   390.5000  TopLayer 90       BZX84                                                        
+VS63       SOT23     59.9999      370.5000     60.0000   370.5000  TopLayer 90       BZX84                                                        
+VS62       SOT23     59.9999      390.5000     60.0000   390.5000  TopLayer 90       BZX84                                                        
+VS61       SOT23     39.9999      390.5000     40.0000   390.5000  TopLayer 90       BZX84                                                        
+VS60       SOT23     39.9999      370.5000     40.0000   370.5000  TopLayer 90       BZX84                                                        
+VS59       SOT23     19.9999      370.5000     20.0000   370.5000  TopLayer 90       BZX84                                                        
+VS58       SOT23     79.9999      390.5000     80.0000   390.5000  TopLayer 90       BZX84                                                        
+VS57       SOT23     99.9999      390.5000     100.0000  390.5000  TopLayer 90       BZX84                                                        
+VS56       SOT23     99.9999      410.4999     100.0000  410.4999  TopLayer 90       BZX84                                                        
+VS55       SOT23     79.9999      410.4999     80.0000   410.4999  TopLayer 90       BZX84                                                        
+VS54       SOT23     59.9999      410.5000     60.0000   410.5000  TopLayer 90       BZX84                                                        
+VS53       SOT23     99.9999      370.5025     100.0000  370.5025  TopLayer 90       BZX84                                                        
+VS52       SOT23     79.9999      370.5000     80.0000   370.5000  TopLayer 90       BZX84                                                        
+VS51       SOT23     99.9999      350.5000     100.0000  350.5000  TopLayer 90       BZX84                                                        
+VS50       SOT23     79.9999      350.5000     80.0000   350.5000  TopLayer 90       BZX84                                                        
+VS49       SOT23     59.9999      350.5000     60.0000   350.5000  TopLayer 90       BZX84                                                        
+VS48       SOT23     99.9999      290.5000     100.0000  290.5000  TopLayer 90       BZX84                                                        
+VS47       SOT23     99.9999      310.5000     100.0000  310.5000  TopLayer 90       BZX84                                                        
+VS46       SOT23     99.9999      330.5000     100.0000  330.5000  TopLayer 90       BZX84                                                        
+VS45       SOT23     79.9999      330.5000     80.0000   330.5000  TopLayer 90       BZX84                                                        
+VS44       SOT23     59.9999      330.5000     60.0000   330.5000  TopLayer 90       BZX84                                                        
+VS43       SOT23     79.9999      290.5000     80.0000   290.5000  TopLayer 90       BZX84                                                        
+VS42       SOT23     79.9999      310.5000     80.0000   310.5000  TopLayer 90       BZX84                                                        
+VS41       SOT23     59.9999      310.5000     60.0000   310.5000  TopLayer 90       BZX84                                                        
+VS40       SOT23     59.9999      290.5000     60.0000   290.5000  TopLayer 90       BZX84                                                        
+VS39       SOT23     59.9999      270.5000     60.0000   270.5000  TopLayer 90       BZX84                                                        
+VS38       SOT23     79.9999      270.5000     80.0000   270.5000  TopLayer 90       BZX84                                                        
+VS37       SOT23     99.9999      270.5000     100.0000  270.5000  TopLayer 90       BZX84                                                        
+VS36       SOT23     99.9999      250.5000     100.0000  250.5000  TopLayer 90       BZX84                                                        
+VS35       SOT23     79.9999      250.5000     80.0000   250.5000  TopLayer 90       BZX84                                                        
+VS34       SOT23     59.9999      250.5000     60.0000   250.5000  TopLayer 90       BZX84                                                        
+VS33       SOT23     99.9999      230.5000     100.0000  230.5000  TopLayer 90       BZX84                                                        
+VS32       SOT23     79.9999      230.5000     80.0000   230.5000  TopLayer 90       BZX84                                                        
+VS31       SOT23     59.9999      230.5000     60.0000   230.5000  TopLayer 90       BZX84                                                        
+VS30       SOT23     99.9999      170.5000     100.0000  170.5000  TopLayer 90       BZX84                                                        
+VS29       SOT23     99.9999      190.5000     100.0000  190.5000  TopLayer 90       BZX84                                                        
+VS28       SOT23     99.9999      210.5000     100.0000  210.5000  TopLayer 90       BZX84                                                        
+VS27       SOT23     79.9999      210.5000     80.0000   210.5000  TopLayer 90       BZX84                                                        
+VS26       SOT23     59.9999      210.5000     60.0000   210.5000  TopLayer 90       BZX84                                                        
+VS25       SOT23     79.9999      170.5000     80.0000   170.5000  TopLayer 90       BZX84                                                        
+VS24       SOT23     79.9999      190.5000     80.0000   190.5000  TopLayer 90       BZX84                                                        
+VS23       SOT23     59.9999      190.5000     60.0000   190.5000  TopLayer 90       BZX84                                                        
+VS22       SOT23     59.9999      170.5000     60.0000   170.5000  TopLayer 90       BZX84                                                        
+VS21       SOT23     59.9999      150.5000     60.0000   150.5000  TopLayer 90       BZX84                                                        
+VS20       SOT23     99.9999      150.5000     100.0000  150.5000  TopLayer 90       BZX84                                                        
+VS19       SOT23     79.9999      150.5000     80.0000   150.5000  TopLayer 90       BZX84                                                        
+VS18       SOT23     99.9999      130.5000     100.0000  130.5000  TopLayer 90       BZX84                                                        
+VS17       SOT23     79.9999      130.5000     80.0000   130.5000  TopLayer 90       BZX84                                                        
+VS16       SOT23     59.9999      130.5000     60.0000   130.5000  TopLayer 90       BZX84                                                        
+VS15       SOT23     99.9999      70.5000      100.0000  70.5000   TopLayer 90       BZX84                                                        
+VS14       SOT23     99.9999      90.5000      100.0000  90.5000   TopLayer 90       BZX84                                                        
+VS13       SOT23     99.9999      110.5000     100.0000  110.5000  TopLayer 90       BZX84                                                        
+VS12       SOT23     79.9999      110.5000     80.0000   110.5000  TopLayer 90       BZX84                                                        
+VS11       SOT23     59.9999      110.5000     60.0000   110.5000  TopLayer 90       BZX84                                                        
+VS10       SOT23     79.9999      70.5000      80.0000   70.5000   TopLayer 90       BZX84                                                        
+VS9        SOT23     79.9999      90.5000      80.0000   90.5000   TopLayer 90       BZX84                                                        
+VS8        SOT23     59.9999      90.5000      60.0000   90.5000   TopLayer 90       BZX84                                                        
+VS7        SOT23     59.9999      70.5000      60.0000   70.5000   TopLayer 90       BZX84                                                        
+VS6        SOT23     59.9999      50.5000      60.0000   50.5000   TopLayer 90       BZX84                                                        
+VS5        SOT23     99.9999      50.5000      100.0000  50.5000   TopLayer 90       BZX84                                                        
+VS4        SOT23     79.9999      50.5000      80.0000   50.5000   TopLayer 90       BZX84                                                        
+VS3        SOT23     59.9999      30.5000      60.0000   30.5000   TopLayer 90       BZX84                                                        
+VS2        SOT23     79.9999      30.5000      80.0000   30.5000   TopLayer 90       BZX84                                                        
+VS1        SOT23     99.9999      30.5000      100.0000  30.5000   TopLayer 90       BZX84                                                        
+VD204      E65F      240.0000     361.5000     240.0000  361.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD203      E65F      259.9999     361.5000     260.0000  361.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD202      E65F      260.0000     381.5000     260.0000  381.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD201      E65F      240.0000     381.5000     240.0000  381.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD200      E65F      240.0000     401.5000     240.0000  401.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD199      E65F      280.0001     381.5000     280.0000  381.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD198      E65F      300.0001     381.5000     300.0000  381.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD197      E65F      300.0001     401.5000     300.0000  401.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD196      E65F      280.0001     401.5000     280.0000  401.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD195      E65F      260.0001     401.5000     260.0000  401.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD194      E65F      280.0001     361.5000     280.0000  361.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD193      E65F      300.0001     361.5000     300.0000  361.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD192      E65F      320.0001     361.5000     320.0000  361.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD191      E65F      320.0001     381.5000     320.0000  381.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD190      E65F      320.0001     401.5000     320.0000  401.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD189      E65F      340.0001     361.5000     340.0000  361.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD188      E65F      360.0001     361.5000     360.0000  361.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD187      E65F      360.0001     381.5000     360.0000  381.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD186      E65F      340.0001     381.5000     340.0000  381.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD185      E65F      340.0001     401.5000     340.0000  401.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD184      E65F      360.0001     341.5000     360.0000  341.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD183      E65F      360.0001     321.5000     360.0000  321.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD182      E65F      380.0001     321.5000     380.0000  321.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD181      E65F      380.0001     341.5000     380.0000  341.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD180      E65F      380.0001     361.5000     380.0000  361.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD179      E65F      340.0001     341.5000     340.0000  341.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD178      E65F      340.0001     321.5000     340.0000  321.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD177      E65F      340.0001     301.5000     340.0000  301.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD176      E65F      360.0001     301.5000     360.0000  301.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD175      E65F      380.0001     301.5000     380.0000  301.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD174      E65F      340.0001     261.5000     340.0000  261.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD173      E65F      360.0001     261.5000     360.0000  261.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD172      E65F      340.0001     281.5000     340.0000  281.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD171      E65F      360.0001     281.5000     360.0000  281.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD170      E65F      380.0001     281.5000     380.0000  281.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD169      E65F      360.0001     241.5000     360.0000  241.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD168      E65F      360.0001     221.5000     360.0000  221.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD167      E65F      380.0001     221.5000     380.0000  221.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD166      E65F      380.0001     241.5000     380.0000  241.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD165      E65F      380.0001     261.5000     380.0000  261.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD164      E65F      340.0001     241.5000     340.0000  241.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD163      E65F      340.0001     221.5000     340.0000  221.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD162      E65F      340.0001     201.5000     340.0000  201.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD161      E65F      360.0001     201.5000     360.0000  201.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD160      E65F      380.0001     201.5000     380.0000  201.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD159      E65F      340.0001     181.5000     340.0000  181.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD158      E65F      340.0001     161.5000     340.0000  161.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD157      E65F      360.0001     161.5000     360.0000  161.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD156      E65F      360.0001     181.5000     360.0000  181.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD155      E65F      380.0001     181.5000     380.0000  181.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD154      E65F      360.0001     141.5000     360.0000  141.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD153      E65F      360.0001     121.5000     360.0000  121.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD152      E65F      380.0001     121.5000     380.0000  121.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD151      E65F      380.0001     141.5000     380.0000  141.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD150      E65F      380.0001     161.5000     380.0000  161.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD149      E65F      340.0001     141.5000     340.0000  141.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD148      E65F      340.0001     121.5000     340.0000  121.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD147      E65F      340.0001     101.5000     340.0000  101.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD146      E65F      360.0001     101.5000     360.0000  101.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD145      E65F      380.0001     101.5000     380.0000  101.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD144      E65F      340.0001     81.5000      340.0000  81.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD143      E65F      360.0001     81.5000      360.0000  81.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD142      E65F      380.0001     81.5000      380.0000  81.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD141      E65F      360.0001     61.5000      360.0000  61.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD140      E65F      380.0001     61.5000      380.0000  61.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD139      E65F      340.0001     61.5000      340.0000  61.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD138      E65F      320.0001     61.5000      320.0000  61.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD137      E65F      320.0001     41.5000      320.0000  41.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD136      E65F      340.0001     41.5000      340.0000  41.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD135      E65F      360.0001     41.5000      360.0000  41.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD134      E65F      300.0000     61.5000      300.0000  61.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD133      E65F      300.0000     41.5000      300.0000  41.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD132      E65F      300.0000     21.5000      300.0000  21.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD131      E65F      320.0000     21.5000      320.0000  21.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD130      E65F      340.0000     21.5000      340.0000  21.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD129      E65F      280.0000     61.5000      280.0000  61.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD128      E65F      260.0000     61.5000      260.0000  61.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD127      E65F      260.0000     41.5000      260.0000  41.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD126      E65F      280.0000     41.5000      280.0000  41.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD125      E65F      280.0000     21.5000      280.0000  21.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD124      E65F      240.0000     41.5000      240.0000  41.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD123      E65F      220.0000     41.5000      220.0000  41.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD122      E65F      220.0000     21.5000      220.0000  21.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD121      E65F      240.0000     21.5000      240.0000  21.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD120      E65F      260.0000     21.5000      260.0000  21.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD119      E65F      240.0000     61.5000      240.0000  61.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD118      E65F      220.0000     61.5000      220.0000  61.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD117      E65F      200.0000     41.5000      200.0000  41.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD116      E65F      200.0000     61.5000      200.0000  61.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD115      E65F      180.0000     61.5000      180.0000  61.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD114      E65F      220.0000     81.5000      220.0000  81.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD113      E65F      220.0000     101.5000     220.0000  101.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD112      E65F      200.0000     101.5000     200.0000  101.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD111      E65F      200.0000     81.5000      200.0000  81.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD110      E65F      180.0000     81.5000      180.0000  81.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD109      E65F      200.0000     121.5000     200.0000  121.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD108      E65F      200.0000     141.5000     200.0000  141.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD107      E65F      179.9999     141.5000     180.0000  141.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD106      E65F      180.0000     121.5000     180.0000  121.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD105      E65F      179.9999     101.5000     180.0000  101.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD104      E65F      220.0000     121.5000     220.0000  121.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD103      E65F      220.0000     141.5000     220.0000  141.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD102      E65F      220.0000     161.5000     220.0000  161.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD101      E65F      200.0000     161.5000     200.0000  161.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD100      E65F      179.9999     161.5000     180.0000  161.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD99       E65F      200.0001     381.5000     200.0000  381.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD98       E65F      220.0001     381.5000     220.0000  381.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD97       E65F      220.0001     401.5000     220.0000  401.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD96       E65F      180.0001     361.5000     180.0000  361.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD95       E65F      200.0001     361.5000     200.0000  361.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD94       E65F      220.0001     361.5000     220.0000  361.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD93       E65F      220.0001     341.5000     220.0000  341.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD92       E65F      220.0001     321.5000     220.0000  321.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD91       E65F      180.1006     301.5000     180.1005  301.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD90       E65F      180.0001     321.5000     180.0000  321.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD89       E65F      180.0001     341.5000     180.0000  341.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD88       E65F      200.0001     341.5000     200.0000  341.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD87       E65F      200.0001     321.5000     200.0000  321.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD86       E65F      180.0001     281.5000     180.0000  281.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD85       E65F      200.0001     281.5000     200.0000  281.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD84       E65F      200.1006     301.5000     200.1005  301.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD83       E65F      220.1006     301.5000     220.1005  301.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD82       E65F      220.0001     281.5000     220.0000  281.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD81       E65F      180.0001     261.5000     180.0000  261.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD80       E65F      200.0001     261.5000     200.0000  261.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD79       E65F      220.0001     261.5000     220.0000  261.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD78       E65F      220.0001     241.5000     220.0000  241.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD77       E65F      220.0001     221.5000     220.0000  221.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD76       E65F      180.0001     201.5000     180.0000  201.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD75       E65F      180.0001     221.5000     180.0000  221.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD74       E65F      180.0001     241.5000     180.0000  241.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD73       E65F      200.0001     241.5000     200.0000  241.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD72       E65F      200.0001     221.5000     200.0000  221.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD71       E65F      180.0001     181.5000     180.0000  181.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD70       E65F      200.0001     181.5000     200.0000  181.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD69       E65F      200.0001     201.5000     200.0000  201.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD68       E65F      220.0001     201.5000     220.0000  201.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD67       E65F      220.0001     181.5000     220.0000  181.5000  TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD66       E65F      40.0000      401.5025     40.0000   401.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD65       E65F      19.9999      401.5025     20.0000   401.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD64       E65F      19.9999      381.5025     20.0000   381.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD63       E65F      60.0000      361.5025     60.0000   361.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD62       E65F      60.0000      381.5025     60.0000   381.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD61       E65F      40.0000      381.5025     40.0000   381.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD60       E65F      40.0000      361.5025     40.0000   361.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD59       E65F      19.9999      361.5025     20.0000   361.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD58       E65F      80.0000      381.5025     80.0000   381.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD57       E65F      100.0000     381.5025     100.0000  381.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD56       E65F      100.0000     401.5025     100.0000  401.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD55       E65F      80.0000      401.5025     80.0000   401.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD54       E65F      60.0000      401.5025     60.0000   401.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD53       E65F      99.9999      361.5051     100.0000  361.5051  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD52       E65F      79.9999      361.5025     80.0000   361.5025  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD51       E65F      100.0000     341.5000     100.0000  341.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD50       E65F      80.0000      341.5000     80.0000   341.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD49       E65F      60.0000      341.5000     60.0000   341.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD48       E65F      99.9999      281.5000     100.0000  281.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD47       E65F      99.9999      301.5000     100.0000  301.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD46       E65F      99.9999      321.5000     100.0000  321.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD45       E65F      80.0000      321.5000     80.0000   321.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD44       E65F      60.0000      321.5000     60.0000   321.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD43       E65F      80.0000      281.5000     80.0000   281.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD42       E65F      80.0000      301.5000     80.0000   301.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD41       E65F      60.0000      301.5000     60.0000   301.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD40       E65F      60.0000      281.5000     60.0000   281.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD39       E65F      60.0000      261.5000     60.0000   261.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD38       E65F      80.0000      261.5000     80.0000   261.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD37       E65F      99.9999      261.5000     100.0000  261.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD36       E65F      99.9999      241.5000     100.0000  241.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD35       E65F      80.0000      241.5000     80.0000   241.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD34       E65F      60.0000      241.5000     60.0000   241.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD33       E65F      99.9999      221.5000     100.0000  221.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD32       E65F      80.0000      221.5000     80.0000   221.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD31       E65F      60.0000      221.5000     60.0000   221.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD30       E65F      99.9999      161.5000     100.0000  161.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD29       E65F      99.9999      181.5000     100.0000  181.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD28       E65F      100.0000     201.5000     100.0000  201.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD27       E65F      80.0000      201.5000     80.0000   201.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD26       E65F      60.0000      201.5000     60.0000   201.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD25       E65F      80.0000      161.5000     80.0000   161.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD24       E65F      80.0000      181.5000     80.0000   181.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD23       E65F      60.0000      181.5000     60.0000   181.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD22       E65F      60.0000      161.5000     60.0000   161.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD21       E65F      60.0000      141.5000     60.0000   141.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD20       E65F      100.0000     141.5000     100.0000  141.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD19       E65F      80.0000      141.5000     80.0000   141.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD18       E65F      100.0000     121.5000     100.0000  121.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD17       E65F      80.0000      121.5000     80.0000   121.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD16       E65F      60.0000      121.5000     60.0000   121.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD15       E65F      100.0000     61.5000      100.0000  61.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD14       E65F      100.0000     81.5000      100.0000  81.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD13       E65F      100.0000     101.5000     100.0000  101.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD12       E65F      80.0000      101.5000     80.0000   101.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD11       E65F      60.0000      101.5000     60.0000   101.5000  TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD10       E65F      80.0001      61.5000      80.0000   61.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD9        E65F      80.0001      81.5000      80.0000   81.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD8        E65F      60.0001      81.5000      60.0000   81.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD7        E65F      60.0001      61.5000      60.0000   61.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD6        E65F      60.0000      41.5000      60.0000   41.5000   TopLayer 180      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD5        E65F      100.0001     41.5000      100.0000  41.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD4        E65F      80.0001      41.5000      80.0000   41.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD3        E65F      60.0001      21.5000      60.0000   21.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD2        E65F      80.0001      21.5000      80.0000   21.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+VD1        E65F      100.0001     21.5000      100.0000  21.5000   TopLayer 360      "LED, LS E65F-BBDA-1-Z, Red, OSRAM Opto Semiconductors Inc." 
+R45        RC1206S   248.2500     352.6250     248.2500  352.6250  TopLayer 270      R1206S                                                       
+R44        RC1206S   268.1000     352.6250     268.1000  352.6250  TopLayer 270      R1206S                                                       
+R43        RC1206S   271.9212     352.6289     271.9212  352.6289  TopLayer 270      R1206S                                                       
+R42        RC1206S   328.2450     352.5281     328.2450  352.5281  TopLayer 180      R1206S                                                       
+R41        RC1206S   328.2450     347.0486     328.2450  347.0486  TopLayer 180      R1206S                                                       
+R40        RC1206S   328.2450     341.9000     328.2450  341.9000  TopLayer 180      R1206S                                                       
+R39        RC1206S   330.4700     271.0500     330.4700  271.0500  TopLayer 180      R1206S                                                       
+R38        RC1206S   330.4700     257.0526     330.4700  257.0526  TopLayer 180      R1206S                                                       
+R37        RC1206S   330.4700     251.0500     330.4700  251.0500  TopLayer 180      R1206S                                                       
+R36        RC1206S   330.4750     192.2000     330.4750  192.2000  TopLayer 180      R1206S                                                       
+R35        RC1206S   330.4750     156.6250     330.4750  156.6250  TopLayer 180      R1206S                                                       
+R34        RC1206S   330.4700     151.0500     330.4700  151.0500  TopLayer 180      R1206S                                                       
+R33        RC1206S   330.4750     92.5000      330.4750  92.5000   TopLayer 180      R1206S                                                       
+R32        RC1206S   330.4698     76.4107      330.4698  76.4107   TopLayer 180      R1206S                                                       
+R31        RC1206S   309.9500     69.8750      309.9500  69.8750   TopLayer 90       R1206S                                                       
+R30        RC1206S   290.4500     69.8750      290.4500  69.8750   TopLayer 90       R1206S                                                       
+R29        RC1206S   250.8361     69.8750      250.8361  69.8750   TopLayer 90       R1206S                                                       
+R28        RC1206S   246.3750     69.8750      246.3750  69.8750   TopLayer 90       R1206S                                                       
+R27        RC1206S   232.8750     82.3250      232.8750  82.3250   TopLayer 360      R1206S                                                       
+R26        RC1206S   232.8750     114.1500     232.8750  114.1500  TopLayer 360      R1206S                                                       
+R25        RC1206S   232.8750     122.2500     232.8750  122.2500  TopLayer 360      R1206S                                                       
+R24        RC1206S   185.1512     378.7302     185.1512  378.7302  TopLayer 180      R1206S                                                       
+R23        RC1206S   185.1512     384.0250     185.1512  384.0250  TopLayer 180      R1206S                                                       
+R22        RC1206S   167.0750     358.9750     167.0750  358.9750  TopLayer 180      R1206S                                                       
+R21        RC1206S   167.0750     298.9750     167.0750  298.9750  TopLayer 180      R1206S                                                       
+R20        RC1206S   167.0750     278.9750     167.0750  278.9750  TopLayer 180      R1206S                                                       
+R19        RC1206S   167.0750     258.9750     167.0750  258.9750  TopLayer 180      R1206S                                                       
+R18        RC1206S   167.0750     198.9750     167.0750  198.9750  TopLayer 180      R1206S                                                       
+R17        RC1206S   167.0750     178.9750     167.0750  178.9750  TopLayer 180      R1206S                                                       
+R16        RC1206S   112.8000     372.3250     112.8000  372.3250  TopLayer 0        R1206S                                                       
+R15        RC1206S   112.8000     377.4750     112.8000  377.4750  TopLayer 0        R1206S                                                       
+R14        RC1206S   112.8000     367.2750     112.8000  367.2750  TopLayer 0        R1206S                                                       
+R13        RC1206S   112.8000     382.4507     112.8000  382.4507  TopLayer 0        R1206S                                                       
+R12        RC1206S   112.8000     362.2913     112.8000  362.2913  TopLayer 0        R1206S                                                       
+R11        RC1206S   112.8000     282.7067     112.8000  282.7067  TopLayer 0        R1206S                                                       
+R10        RC1206S   112.8000     274.2787     112.8000  274.2787  TopLayer 0        R1206S                                                       
+R9         RC1206S   112.8000     268.6998     112.8000  268.6998  TopLayer 0        R1206S                                                       
+R8         RC1206S   112.8000     217.5108     112.8000  217.5108  TopLayer 0        R1206S                                                       
+R7         RC1206S   112.8000     222.3725     112.8000  222.3725  TopLayer 0        R1206S                                                       
+R6         RC1206S   112.8000     162.2000     112.8000  162.2000  TopLayer 0        R1206S                                                       
+R5         RC1206S   112.8000     155.4500     112.8000  155.4500  TopLayer 0        R1206S                                                       
+R4         RC1206S   112.8000     142.2250     112.8000  142.2250  TopLayer 0        R1206S                                                       
+R3         RC1206S   112.8000     62.7616      112.8000  62.7616   TopLayer 0        R1206S                                                       
+R2         RC1206S   112.8000     55.1000      112.8000  55.1000   TopLayer 360      R1206S                                                       
+R1         RC1206S   112.8000     34.7750      112.8000  34.7750   TopLayer 0        R1206S                                                      

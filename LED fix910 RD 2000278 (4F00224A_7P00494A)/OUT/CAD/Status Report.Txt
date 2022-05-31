@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:44:32 On 19.05.2022
+
+Output: AutoCAD dwg/dxf File Schematic
+Type  : AutoCAD SCH
+From  : Project [LED fix910 RD 2000278 (4F00224A_7P00494A).PrjPcb]
+   Generated File[LED fix910 RD 2000278 (4F00224A_7P00494A)_2.DWG]
+   Generated File[LED fix910 RD 2000278 (4F00224A_7P00494A)_1.DWG]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 15:44:37 On 19.05.2022
